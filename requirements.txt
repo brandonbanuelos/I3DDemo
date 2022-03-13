@@ -1,0 +1,6 @@
+matplotlib >= 3.4.3
+numpy >= 1.19.5
+mxnet >= 1.8.0
+gluoncv >= 0.10.4
+opencv-python >= 4.5.4.58
+torchvision+cpu >= 0.10.0
